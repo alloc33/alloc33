@@ -1,6 +1,6 @@
 # Nikolai Shelekhov
 
-Full-Stack Rust Engineer with 7+ years of experience specializing in blockchain development and high-performance systems.
+Full-Stack Rust Engineer with 7+ years of experience specializing in backend, blockchain and high-performance systems.
 
 ## Focus Areas
 
