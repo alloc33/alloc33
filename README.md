@@ -12,4 +12,4 @@ Full-Stack Rust Engineer with 7+ years of software development experience specia
 
 ## Connect
 
-[Telegram](https://t.me/alloc33) • [Email](mailto:nickshv13@icloud.com) • [LinkedIn](https://linkedin.com/in/nshelehov)
+[Telegram](https://t.me/alloc33) • [Email](mailto:nickshv13@icloud.com)
