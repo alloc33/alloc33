@@ -8,7 +8,7 @@ Full-Stack Rust Engineer with 7+ years of software development experience specia
 
 ## Tech Stack
 
-`Rust` `C` `TypeScript` `Solana` `Substrate` `Polkadot` `PostgreSQL` `Docker`
+`Rust` `C` `x86/ARM ASM` `Substrate` `Polkadot` `Solana` `PostgreSQL` `Docker` 
 
 ## Connect
 
