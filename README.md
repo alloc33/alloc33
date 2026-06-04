@@ -1,14 +1,14 @@
 # Nikolai Shelekhov
 
-Full-Stack Rust Engineer with 7+ years of software development experience specializing in high-performance systems, blockchain (Polkadot/Substrate) and backend.
+Rust Systems Engineer with 7+ years of experience in networking, concurrency, and low-level systems programming. Linux kernel modules, eBPF, VPN infrastructure, async Rust.
 
 ## Focus Areas
 
-**Rust Systems Programming** • **High-Performance Backend** • **Blockchain Infrastructure** • **Substrate & Polkadot** • **DeFi Protocols**
+**Systems Programming** • **Networking & Concurrency** • **Linux Kernel & eBPF** • **VPN Infrastructure** • **Async Rust**
 
 ## Tech Stack
 
-`Rust` `Tokio` `Axum` `Sqlx` `Substrate` `Polkadot` `Docker` `C` `x86/ARM ASM`
+`Rust` `C` `Tokio` `no_std` `eBPF` `Linux Kernel` `Networking` `Docker`
 
 ## Connect
 
