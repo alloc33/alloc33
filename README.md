@@ -1,6 +1,6 @@
 # Nikolai Shelekhov
 
-Rust Systems Engineer with 7+ years of experience in networking, concurrency, and low-level systems programming. Linux kernel modules, eBPF, VPN infrastructure, async Rust.
+Rust Systems Engineer with 8+ years of experience in networking, concurrency, and low-level systems programming. Linux kernel modules, eBPF, VPN infrastructure, async Rust.
 
 ## Focus Areas
 
