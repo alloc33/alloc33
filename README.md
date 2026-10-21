@@ -1,6 +1,6 @@
 # Nikolai Shelekhov
 
-Rust Systems Engineer with 8+ of software development experience. Focusing on networking, concurrency, and low-level systems programming. Linux kernel modules, eBPF, VPN infrastructure, async Rust.
+Rust Systems Engineer with 9 years of professional experience. Specializing in networking, concurrency, and low-level systems programming. Linux kernel modules, eBPF, VPN infrastructure, trading systems, async Rust.
 
 ## Focus Areas
 
@@ -8,8 +8,8 @@ Rust Systems Engineer with 8+ of software development experience. Focusing on ne
 
 ## Tech Stack
 
-`Rust` `C` `Tokio` `no_std` `eBPF` `Linux Kernel` `Networking` `Docker`
+`Rust` `C` `Tokio` `Axum` `no_std` `eBPF` `Linux Kernel` `Networking` `PostgreSQL` `Docker`
 
 ## Connect
 
-[Telegram](https://t.me/alloc33) • [Email](mailto:nickshv13@icloud.com)
+[Website](https://nikolaishelekhov.com) • [LinkedIn](https://linkedin.com/in/nshelehov) • [Telegram](https://t.me/alloc33) • [Email](mailto:nickshv13@icloud.com)
